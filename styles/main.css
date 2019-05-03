@@ -1,0 +1,26 @@
+h1 {
+  margin: auto;
+  background-image: linear-gradient(#25006f, #0059ac);
+  height: 45px;
+  padding: 6px 0;
+  color: #fff;
+  text-align: center;
+  font-size: 2.4rem;
+  }
+
+body {
+  text-align: center;
+  font-size: 1.2rem;
+  color: #09194e;
+}
+
+form {
+  display: inline-block;
+  padding-top: 2rem;
+  margin: auto;
+}
+
+input.mdl-textfield__input {
+  width: 200px;
+  display: inline-block;
+}
